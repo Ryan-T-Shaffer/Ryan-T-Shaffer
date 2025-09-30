@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Ryan-T-Shaffer
-  I’m interested in a career in Data. I am currently working to become a Data Analyst who is skilled in SQL and Dashboarding Software. I one day hope to apply my experience in Machine Learning, Data Science, Signal Processing, and Software Enginnering to my career in the future. This repository I have attached to my guthub profile showcases Data Analyst project I have recently completed about the healthcare industry.
-
+- 👋 Hi, I’m @Ryan-T-Shaffer.
+  I’m interested in a career in data. I’m currently working to become a data analyst skilled in SQL and dashboarding software. One day I hope to apply my experience in machine learning, data science, signal processing, and software engineering to my career. This repository, linked on my GitHub profile, showcases a data analytics project I recently completed in the healthcare industry.
 
 <!---
 Ryan-T-Shaffer/Ryan-T-Shaffer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
